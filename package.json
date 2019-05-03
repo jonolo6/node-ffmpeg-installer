@@ -1,6 +1,6 @@
 {
-  "name": "@ffmpeg-installer/ffmpeg",
-  "version": "1.0.16",
+  "name": "@jonolo6/ffmpeg-installer",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "lint": "jshint *.js",
@@ -29,10 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kribblo/node-ffmpeg-installer.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kribblo/node-ffmpeg-installer/issues"
-  },
-  "homepage": "https://github.com/kribblo/node-ffmpeg-installer#readme"
+    "url": "git+https://github.com/@jonolo6/node-ffmpeg-installer.git"
+  }
 }
